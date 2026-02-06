@@ -23,3 +23,5 @@ Complete the implementation of load_data and get_model in traffic.py.
 Ultimately, much of this project is about exploring documentation and investigating different options in cv2 and tensorflow and seeing what results you get when you try them!
 
 You should not modify anything else in traffic.py other than the functions the specification calls for you to implement, though you may write additional functions and/or import other Python standard library modules. You may also import numpy or pandas, if familiar with them, but you should not use any other third-party Python modules. You may modify the global variables defined at the top of the file to test your program with other values.
+
+[**Dataset link**](https://cdn.cs50.net/ai/2023/x/projects/5/gtsrb.zip)
